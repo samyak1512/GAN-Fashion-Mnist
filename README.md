@@ -55,7 +55,11 @@ Train the GAN model on the new random noise, using binary cross-entropy loss to 
 
 <h2> Results</h2>
 Overall, the generator seems to perform good after approximately 2000 epochs. The loss of the discriminator and the generator become stable after these number of epochs.
-![image](https://user-images.githubusercontent.com/43640144/226198254-38a67ce3-7227-4956-a12b-07bc8e682b91.png)
+
+![Screenshot 2023-03-19 234910](https://user-images.githubusercontent.com/43640144/226198493-d56d549c-43ac-4eb7-b9f7-ab575150a071.png)
+
+
 Thse are the images produced by the GAN model
-![image](https://user-images.githubusercontent.com/43640144/226198366-55e5c070-4a87-4c15-8c6f-4a777e657b9d.png)
+![image](https://user-images.githubusercontent.com/43640144/226198442-e8a5ff7c-0643-4ebe-957e-b160c8181188.png)
+
 
